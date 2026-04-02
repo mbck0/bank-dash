@@ -1,0 +1,40 @@
+//Colors
+$color-black: #000000;
+$color-white: #FFFFFF;
+$color-gray-light: #E6E6E6;
+$color-blue-pale: #E7FAFE;
+$color-gray-dark: #262626;
+$color-gray-soft: #DBE2E5;
+$color-soft-cyan: #DBEDF1;
+$color-blue: #3897F0;
+$color-red-soft: #FF6363;
+$color-orange: #FF7426;
+$color-gray: #9CA3AF;
+
+// Breakpoints
+$breakpoints: (
+  "xxs": 340px,
+  "xs": 375px,
+  "sm": 576px,
+  "md": 768px,
+  "lg": 992px,
+  "xl": 1200px,
+  "xxl": 1400px,
+);
+
+$xxs-breakpoint: map-get($breakpoints, "xxs");
+$xs-breakpoint: map-get($breakpoints, "xs");
+$sm-breakpoint: map-get($breakpoints, "sm");
+$md-breakpoint: map-get($breakpoints, "md");
+$lg-breakpoint: map-get($breakpoints, "lg");
+$xl-breakpoint: map-get($breakpoints, "xl");
+$xxl-breakpoint: map-get($breakpoints, "xxl");
+
+// Spacing
+$spacing-unit: 0.25rem;
+
+// Typography
+$font-family-base: "Inter", sans-serif;
+$font-size-base: 1rem;
+
+$transition-base: all 0.3s ease;

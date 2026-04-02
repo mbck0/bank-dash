@@ -1,0 +1,11 @@
+.container {
+  @include container;
+}
+
+body {
+  font-family: $font-family-base;
+}
+
+.section {
+  padding: $spacing-unit * 16 0;
+}
