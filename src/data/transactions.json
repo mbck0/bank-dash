@@ -1,0 +1,56 @@
+[
+  {
+    "id": "tx_1",
+    "accountId": "acc_1",
+    "title": "Salary",
+    "amount": 30000,
+    "type": "income",
+    "category": "salary",
+    "date": "2025-03-01"
+  },
+  {
+    "id": "tx_2",
+    "accountId": "acc_1",
+    "title": "Supermarket",
+    "amount": -1200,
+    "type": "expense",
+    "category": "shopping",
+    "date": "2025-03-02"
+  },
+  {
+    "id": "tx_3",
+    "accountId": "acc_1",
+    "title": "Electric Bill",
+    "amount": -850,
+    "type": "expense",
+    "category": "bills",
+    "date": "2025-03-03"
+  },
+  {
+    "id": "tx_4",
+    "accountId": "acc_2",
+    "title": "Interest Income",
+    "amount": 2500,
+    "type": "income",
+    "category": "interest",
+    "date": "2025-03-05"
+  },
+  {
+    "id": "tx_5",
+    "accountId": "acc_3",
+    "title": "Online Shopping",
+    "amount": -2200,
+    "type": "expense",
+    "category": "shopping",
+    "date": "2025-03-06"
+  },
+  {
+    "id": "tx_6",
+    "accountId": "acc_1",
+    "title": "Transfer to Savings",
+    "amount": -5000,
+    "type": "transfer",
+    "category": "transfer",
+    "date": "2025-03-07"
+  }
+]
