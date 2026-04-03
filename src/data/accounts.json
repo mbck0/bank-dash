@@ -1,0 +1,29 @@
+[
+  {
+    "id": "acc_1",
+    "name": "Main Account",
+    "type": "checking",
+    "balance": 24500,
+    "currency": "TRY",
+    "iban": "TR000000000000000000000001",
+    "createdAt": "2024-01-10"
+  },
+  {
+    "id": "acc_2",
+    "name": "Savings Account",
+    "type": "savings",
+    "balance": 120000,
+    "currency": "TRY",
+    "iban": "TR000000000000000000000002",
+    "createdAt": "2023-06-15"
+  },
+  {
+    "id": "acc_3",
+    "name": "Credit Card",
+    "type": "credit",
+    "balance": -5400,
+    "currency": "TRY",
+    "iban": "TR000000000000000000000003",
+    "createdAt": "2024-03-01"
+  }
+]
